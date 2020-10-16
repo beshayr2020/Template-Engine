@@ -54,8 +54,7 @@ app.js         // Runs the application
 
 You are required to submit the following:
 
-* The URL of the GitHub repository
-![GitHub repository URL] 
+![GitHub repository URL] https://github.com/beshayr2020/Template-Engine/tree/master/Develop
 
 ![Employee Summary demo](./Develop/Template-Engin-Summary-Demo.gif)
 
