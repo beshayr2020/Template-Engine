@@ -62,6 +62,7 @@ You are required to submit the following:
 * The URL of the GitHub repository
 
 * A video demonstrating the entirety of the app's functionality 
+![Employee Summary 2demo](./Develop/Template-Engin-Summary-Demo.gif)
 
 - - -
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
